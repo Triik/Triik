@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python, C# and Java
+- 🌱 I’m currently learning Python, Java and C#
 
 <!--
 **Triik/Triik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
