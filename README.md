@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with C++
