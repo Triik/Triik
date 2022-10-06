@@ -1,3 +1,2 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with C++
+I'm a computer science and engineering student and I'm primarily interested in C++ programming.
